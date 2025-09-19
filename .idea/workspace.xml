@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d3cea18-3c5e-4c64-974c-b814b33c0570" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9d3cea18-3c5e-4c64-974c-b814b33c0570" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +72,7 @@
       <workItem from="1755595747343" duration="704000" />
       <workItem from="1758270390322" duration="78000" />
       <workItem from="1758273664565" duration="10000" />
+      <workItem from="1758273879582" duration="214000" />
     </task>
     <task id="LOCAL-00001" summary="upload build">
       <option name="closed" value="true" />
@@ -115,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758270452500</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="set height limit to the main news">
+      <option name="closed" value="true" />
+      <created>1758273997385</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1758273997385</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +134,7 @@
     <MESSAGE value="make rahbariyat page responsive" />
     <MESSAGE value="change news" />
     <MESSAGE value="add news section" />
-    <option name="LAST_COMMIT_MESSAGE" value="add news section" />
+    <MESSAGE value="set height limit to the main news" />
+    <option name="LAST_COMMIT_MESSAGE" value="set height limit to the main news" />
   </component>
 </project>
