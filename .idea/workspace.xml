@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d3cea18-3c5e-4c64-974c-b814b33c0570" name="Changes" comment="" />
+    <list default="true" id="9d3cea18-3c5e-4c64-974c-b814b33c0570" name="Changes" comment="replace 404 pages">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +79,8 @@
       <workItem from="1761072906503" duration="9000" />
       <workItem from="1763952241193" duration="171000" />
       <workItem from="1764043938961" duration="549000" />
+      <workItem from="1764046460855" duration="571000" />
+      <workItem from="1764048336549" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="upload build">
       <option name="closed" value="true" />
@@ -150,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764044028190</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="replace 404 pages">
+      <option name="closed" value="true" />
+      <created>1764046489560</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1764046489560</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +178,7 @@
     <MESSAGE value="update backend url" />
     <MESSAGE value="add sorovnoma &amp; about pages" />
     <MESSAGE value="create kafedralar &amp; bolimlar page" />
-    <option name="LAST_COMMIT_MESSAGE" value="create kafedralar &amp; bolimlar page" />
+    <MESSAGE value="replace 404 pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="replace 404 pages" />
   </component>
 </project>
