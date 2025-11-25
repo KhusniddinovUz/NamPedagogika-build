@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d3cea18-3c5e-4c64-974c-b814b33c0570" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9d3cea18-3c5e-4c64-974c-b814b33c0570" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +52,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-WS-252.26199.162" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-WS-252.28238.10" />
       </set>
     </attachedChunks>
   </component>
@@ -77,6 +75,7 @@
       <workItem from="1758273879582" duration="214000" />
       <workItem from="1758282112418" duration="316000" />
       <workItem from="1761072906503" duration="9000" />
+      <workItem from="1763952241193" duration="171000" />
     </task>
     <task id="LOCAL-00001" summary="upload build">
       <option name="closed" value="true" />
@@ -134,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758282151967</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add sorovnoma &amp; about pages">
+      <option name="closed" value="true" />
+      <created>1763952297662</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1763952297662</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +155,7 @@
     <MESSAGE value="add news section" />
     <MESSAGE value="set height limit to the main news" />
     <MESSAGE value="update backend url" />
-    <option name="LAST_COMMIT_MESSAGE" value="update backend url" />
+    <MESSAGE value="add sorovnoma &amp; about pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="add sorovnoma &amp; about pages" />
   </component>
 </project>
