@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d3cea18-3c5e-4c64-974c-b814b33c0570" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9d3cea18-3c5e-4c64-974c-b814b33c0570" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,6 +95,7 @@
       <workItem from="1764048336549" duration="5000" />
       <workItem from="1781867835450" duration="155000" />
       <workItem from="1782033237038" duration="7000" />
+      <workItem from="1782517726831" duration="234000" />
     </task>
     <task id="LOCAL-00001" summary="upload build">
       <option name="closed" value="true" />
@@ -186,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781867926862</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add new E-library page">
+      <option name="closed" value="true" />
+      <created>1782517824408</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1782517824408</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +211,7 @@
     <MESSAGE value="create kafedralar &amp; bolimlar page" />
     <MESSAGE value="replace 404 pages" />
     <MESSAGE value="add conference page to navbar" />
-    <option name="LAST_COMMIT_MESSAGE" value="add conference page to navbar" />
+    <MESSAGE value="add new E-library page" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new E-library page" />
   </component>
 </project>
